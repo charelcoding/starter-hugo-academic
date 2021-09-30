@@ -31,7 +31,7 @@ education:
 superuser: true
 highlight_name: true
 title: Charel Loos
-email: ""
+email: charelloos@gmail.com
 ---
 I am a medical student from Luxembourg studying in Düsseldorf, Germany. I am currently in 5th year of my studies, shortly before entering the practical year(PJ) in May 2022.
 
