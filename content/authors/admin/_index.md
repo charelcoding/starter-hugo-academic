@@ -1,5 +1,5 @@
 ---
-role: Medical student at Heinrich-Heine-Universität Düsseldorf
+role: "Medical student at "
 avatar_filename: p1010683.jpg
 bio: Fascinated in science, medical technologies, radiology and coding.
 interests:
