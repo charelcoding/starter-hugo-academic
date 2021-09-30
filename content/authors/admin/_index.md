@@ -1,6 +1,6 @@
 ---
 role: "Medical student at "
-avatar_filename: p1010683.jpg
+avatar_filename: p1010684.jpg
 bio: Fascinated in science, medical technologies, radiology and coding.
 interests:
   - Artificial Intelligence
