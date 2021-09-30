@@ -37,6 +37,8 @@ I am a medical student from Luxembourg studying in Düsseldorf, Germany. I am cu
 
 I took a semester off in summer 2021 to do research and write my doctoral thesis. I chose for topic neurology, because the brain is simply fascinating. In parallel, I started to teach myself coding in Python. I used this knowledge to implement a new machine learning algorithm to analyse histological images,  made on confocal microscopy. I managed to quantify microglial cells in retina tissue of the so-called ERE mice, an experimental model for multiple sclerosis. I am planning to publish my results by the end of November.
 
+I am a cool guy.
+
 
 
 
