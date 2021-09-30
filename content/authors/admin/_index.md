@@ -4,8 +4,9 @@ role: Medical student at Heinrich-Heine-Universität Düsseldorf
 bio: Fascinated in science, medical technologies, radiology and coding.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Radiology
+  - Public Health
+  - Neurology
 social:
   - icon: envelope
     icon_pack: fas
