@@ -8,7 +8,7 @@ tags:
   - Deep Learning
 external_link: ""
 url_slides: ""
-title: Example Project
+title: GFAP yes
 links:
   - icon: twitter
     icon_pack: fab
