@@ -19,15 +19,15 @@ organizations:
     url: https://www.hhu.de
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: High school diploma with focus on math/biology/physics
+      institution: Lycée Michel Rodange Luxembourg
+      year: 2015
+    - course: Bachelor's degree in life sciences
+      institution: University of Luxembourg
+      year: 2016
+    - course: Medical studies
+      institution: Heinrich-Heine-Universität Düsseldorf
+      year: 2023
 superuser: true
 highlight_name: true
 title: Charel Loos
