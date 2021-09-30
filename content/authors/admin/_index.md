@@ -25,7 +25,7 @@ education:
     - course: Bachelor's degree in life sciences
       institution: University of Luxembourg
       year: 2016
-    - course: Medical studies
+    - course: Medical studies, currently in 11th semester
       institution: Heinrich-Heine-Universität Düsseldorf
       year: 2023
 superuser: true
