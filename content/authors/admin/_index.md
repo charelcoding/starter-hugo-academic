@@ -15,8 +15,8 @@ social:
     icon_pack: fab
     link: www.linkedin.com/in/loos-charel
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Heinrich-Heine-Universität Düsseldorf
+    url: https://www.hhu.de
 education:
   courses:
     - course: PhD in Artificial Intelligence
